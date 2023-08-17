@@ -19,13 +19,13 @@ const server = http.createServer((req, res) => {
       res.end(`You submitted these parameters:\n${params.toString()}`); // 본문을 응답으로 반환합니다.
     });
   } else {
-    res.end("good bye"); // 기타 요청에 대한 응답입니다.
+    res.end("good bye"); // S기타 요청에 대한 응답입니다.
   }
 });
 
 const port = 8000; // 서버가 리스닝할 포트 번호를 정의합니다.
 server.listen(port, () => {
-  console.log(`The server started on port ${port}`); // 서버가 시작될 때 메시지를 출력합니다.
+  console.log(`The asdserver started on port ${port}`); // 서버가 시작될 때 메시지를 출력합니다.
 });
 
 
