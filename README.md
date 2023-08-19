@@ -15,4 +15,4 @@
 Group Admins
 
 
-** 자동 완성, 타입 검사 등의 기능패키지** npm i express apollo-server-express @types/express
+**자동 완성, 타입 검사 등의 기능패키지** npm i express apollo-server-express @types/express
