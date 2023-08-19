@@ -14,5 +14,14 @@
 **post 요청 (터미널에서 작성)** curl -X POST -H "Content-Type: application/json" -d "{\"groupid\": 2}" http://localhost:8000/api/v1/groups
 Group Admins
 
-
 **자동 완성, 타입 검사 등의 기능패키지** npm i express apollo-server-express @types/express
+------------------------------------------------------------------
+**GraphQL 스키마를 작업하는 데 유용한 도구** npm i @graphql-tools/schema
+
+ **GraphQL 스키마와 관련된 여러 유틸리티 함수** npm i @graphql-tools/utils
+
+**GraphQL JavaScript 구현 패키지** npm i graphql
+
+**npm i apollo-server-core** Apollo Server의 핵심 라이브러리를 설치
+
+**타입 스크립트 초기화** tsc --init
