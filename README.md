@@ -20,6 +20,8 @@ Group Admins
 
  **GraphQL 스키마와 관련된 여러 유틸리티 함수** npm i @graphql-tools/utils
 
+ **UIUD의존성 설치** npm i uuid @types/uuid
+
 **GraphQL JavaScript 구현 패키지** npm i graphql
 
 **npm i apollo-server-core** Apollo Server의 핵심 라이브러리를 설치
