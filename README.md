@@ -22,10 +22,10 @@ Group Admins
 
  **GraphQL 스키마와 관련된 여러 유틸리티 함수** npm i @graphql-tools/utils
 
- **UIUD의존성 설치** npm i uuid @types/uuid
-
 **GraphQL JavaScript 구현 패키지** npm i graphql
 
  **Apollo Server의 핵심 라이브러리를 설치** npm i apollo-server-core
 
 **타입 스크립트 초기화** tsc --init
+
+ **UIUD의존성 설치** npm i uuid @types/uuid
