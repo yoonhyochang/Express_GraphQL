@@ -9,3 +9,7 @@
 
 
 **Express.js 프레임워크를 설치** npm i express
+
+
+**post 요청 (터미널에서 작성)** curl -X POST -H "Content-Type: application/json" -d "{\"groupid\": 2}" http://localhost:8000/api/v1/groups
+Group Admins
