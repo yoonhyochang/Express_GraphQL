@@ -13,3 +13,6 @@
 
 **post 요청 (터미널에서 작성)** curl -X POST -H "Content-Type: application/json" -d "{\"groupid\": 2}" http://localhost:8000/api/v1/groups
 Group Admins
+
+
+** 자동 완성, 타입 검사 등의 기능패키지** npm i express apollo-server-express @types/express
