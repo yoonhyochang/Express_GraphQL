@@ -15,7 +15,7 @@
 Group Admins
 
 **자동 완성, 타입 검사 등의 기능패키지** npm i express apollo-server-express @types/express
-------------------------------------------------------------------
+-------------------chap9-----------------------------------------------
 **GraphQL 스키마를 작업하는 데 유용한 도구** npm i @graphql-tools/schema
 
  **GraphQL 스키마와 관련된 여러 유틸리티 함수** npm i @graphql-tools/utils
